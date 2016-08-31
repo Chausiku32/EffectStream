@@ -1,0 +1,11 @@
+c:\users\nick\documents\visual studio 2013\Projects\EffectStream\EffectStream\bin\Debug\EffectStream.exe.config
+c:\users\nick\documents\visual studio 2013\Projects\EffectStream\EffectStream\obj\Debug\EffectStream.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\EffectStream\EffectStream\obj\Debug\EffectStream.Form1.resources
+c:\users\nick\documents\visual studio 2013\Projects\EffectStream\EffectStream\obj\Debug\EffectStream.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2013\Projects\EffectStream\EffectStream\obj\Debug\EffectStream.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2013\Projects\EffectStream\EffectStream\bin\Debug\EffectStream.exe
+c:\users\nick\documents\visual studio 2013\Projects\EffectStream\EffectStream\bin\Debug\EffectStream.pdb
+c:\users\nick\documents\visual studio 2013\Projects\EffectStream\EffectStream\bin\Debug\NAudio.dll
+c:\users\nick\documents\visual studio 2013\Projects\EffectStream\EffectStream\bin\Debug\NAudio.xml
+c:\users\nick\documents\visual studio 2013\Projects\EffectStream\EffectStream\obj\Debug\EffectStream.exe
+c:\users\nick\documents\visual studio 2013\Projects\EffectStream\EffectStream\obj\Debug\EffectStream.pdb
